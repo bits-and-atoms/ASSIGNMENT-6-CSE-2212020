@@ -1,17 +1,17 @@
 # ASSIGNMENT-6-CSE-2212020 BY SUBHAM MAJUMDER
-##This repository contains the codes/solution of assignment 6.
+##This repository contains the codes/solution of assignment 6.##
 
 ###1)Write a program to generate prime numbers using the Sieve of Eratosthenes method
  
- *que1_sieveprime.c
+ *que1_sieveprime.c*
  
 ####Compilation:
 
-**$gcc que1_sieveprime.c
+**$gcc que1_sieveprime.c**
 
 ####Running the code:
 
-**$./a.out
+**$./a.out**
 
 APPROACH-
 
@@ -52,7 +52,7 @@ The resulting list would be: 2, 3, 5, 7, which are the prime numbers up to 10.
 ###2)Write a program to generate a random one-time password of eight characters long. The password
 should contain at least one small letter, one capital letter, one symbol, and one digit.
 
- *que2_otp.c
+ *que2_otp.c*
 
 ####Compilation:
 

@@ -65,7 +65,7 @@ Running the code:
 3)Given two array X[2][n] and Y [2][n] containing random numbers, i.e., 2 rows and n columns.
 Write a program to solve the following equation
 
- [`[question_3.c](question_3.c)`](https://github.com/bits-and-atoms/ASSIGNMENT-6-CSE-2212020/blob/ce3313d87ed08ff033ffc9523b8f086631e97d15/question_3.c)
+ [question_3.c](https://github.com/bits-and-atoms/ASSIGNMENT-6-CSE-2212020/blob/ce3313d87ed08ff033ffc9523b8f086631e97d15/question_3.c)
  
 Compilation:
 
@@ -78,7 +78,7 @@ Running the code:
 4)Given an array A[] containing n random numbers. Write a program to find the mean, variance,
 and standard deviation of the given array.
 
- `[question4_stddev.c](question4_stddev.c)`
+ [question4_stddev.c](https://github.com/bits-and-atoms/ASSIGNMENT-6-CSE-2212020/blob/0b6becdbe2fcf5944fda8621b833428766047d1f/question4_stddev.c)
  
 Compilation:
 

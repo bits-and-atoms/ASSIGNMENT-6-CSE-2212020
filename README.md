@@ -1,7 +1,7 @@
 # ASSIGNMENT-6-CSE-2212020 BY SUBHAM MAJUMDER
 This repository contains the codes/solution of assignment 6.
 
-1)Write a program to generate prime numbers using the Sieve of Eratosthenes method
+**1)Write a program to generate prime numbers using the Sieve of Eratosthenes method**
  
  [que1_sieveprime.c](https://github.com/bits-and-atoms/ASSIGNMENT-6-CSE-2212020/blob/dfcf63e0e5566426ef6087b19b59373d2879842d/que1_sieveprime.c)
  
@@ -49,8 +49,8 @@ For example, to find all the prime numbers up to 10, we would do the following:
 
 The resulting list would be: 2, 3, 5, 7, which are the prime numbers up to 10.
 
-2)Write a program to generate a random one-time password of eight characters long. The password
-should contain at least one small letter, one capital letter, one symbol, and one digit.
+**2)Write a program to generate a random one-time password of eight characters long. The password
+should contain at least one small letter, one capital letter, one symbol, and one digit.**
 
  [que2_otp.c](https://github.com/bits-and-atoms/ASSIGNMENT-6-CSE-2212020/blob/ce3313d87ed08ff033ffc9523b8f086631e97d15/que2_otp.c)
 
@@ -62,8 +62,8 @@ Running the code:
 
 `$./a.out`
 
-3)Given two array X[2][n] and Y [2][n] containing random numbers, i.e., 2 rows and n columns.
-Write a program to solve the following equation
+**3)Given two array X[2][n] and Y [2][n] containing random numbers, i.e., 2 rows and n columns.
+Write a program to solve the following equation**
 
  [question_3.c](https://github.com/bits-and-atoms/ASSIGNMENT-6-CSE-2212020/blob/ce3313d87ed08ff033ffc9523b8f086631e97d15/question_3.c)
  
@@ -75,8 +75,8 @@ Running the code:
 
 `$./a.out`
 
-4)Given an array A[] containing n random numbers. Write a program to find the mean, variance,
-and standard deviation of the given array.
+**4)Given an array A[] containing n random numbers. Write a program to find the mean, variance,
+and standard deviation of the given array.**
 
  [question4_stddev.c](https://github.com/bits-and-atoms/ASSIGNMENT-6-CSE-2212020/blob/0b6becdbe2fcf5944fda8621b833428766047d1f/question4_stddev.c)
  

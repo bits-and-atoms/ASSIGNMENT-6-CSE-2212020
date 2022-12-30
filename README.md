@@ -3,7 +3,7 @@
 
 ###1)Write a program to generate prime numbers using the Sieve of Eratosthenes method
  
- *[que1_sieveprime.c](https://github.com/bits-and-atoms/ASSIGNMENT-6-CSE-2212020/blob/8c8174e35a3a2750973fd44a35981efbd1c1bb69/que1_sieveprime.c)*
+ *[que1_sieveprime.c](que1_sieveprime.c)*
  
 ####Compilation:
 

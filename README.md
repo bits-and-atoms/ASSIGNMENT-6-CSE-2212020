@@ -52,7 +52,7 @@ The resulting list would be: 2, 3, 5, 7, which are the prime numbers up to 10.
 2)Write a program to generate a random one-time password of eight characters long. The password
 should contain at least one small letter, one capital letter, one symbol, and one digit.
 
- `[que2_otp.c](que2_otp.c)`
+ [que2_otp.c](https://github.com/bits-and-atoms/ASSIGNMENT-6-CSE-2212020/blob/ce3313d87ed08ff033ffc9523b8f086631e97d15/que2_otp.c)
 
 Compilation:
 
@@ -65,7 +65,7 @@ Running the code:
 3)Given two array X[2][n] and Y [2][n] containing random numbers, i.e., 2 rows and n columns.
 Write a program to solve the following equation
 
- `[question_3.c](question_3.c)`
+ [`[question_3.c](question_3.c)`](https://github.com/bits-and-atoms/ASSIGNMENT-6-CSE-2212020/blob/ce3313d87ed08ff033ffc9523b8f086631e97d15/question_3.c)
  
 Compilation:
 

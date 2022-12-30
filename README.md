@@ -1,17 +1,17 @@
 # ASSIGNMENT-6-CSE-2212020 BY SUBHAM MAJUMDER
-This repository contains the codes/solution of assignment 6.
+##This repository contains the codes/solution of assignment 6.
 
-1)Write a program to generate prime numbers using the Sieve of Eratosthenes method
+###1)Write a program to generate prime numbers using the Sieve of Eratosthenes method
  
- que1_sieveprime.c
+ *que1_sieveprime.c
  
-Compilation:
+####Compilation:
 
-$gcc que1_sieveprime.c
+**$gcc que1_sieveprime.c
 
-Running the code:
+####Running the code:
 
-$./a.out
+**$./a.out
 
 APPROACH-
 
@@ -49,41 +49,41 @@ For example, to find all the prime numbers up to 10, we would do the following:
 
 The resulting list would be: 2, 3, 5, 7, which are the prime numbers up to 10.
 
-2)Write a program to generate a random one-time password of eight characters long. The password
+###2)Write a program to generate a random one-time password of eight characters long. The password
 should contain at least one small letter, one capital letter, one symbol, and one digit.
 
- que2_otp.c
+ *que2_otp.c
 
-Compilation:
+####Compilation:
 
-$gcc que2_otp.c
+**$gcc que2_otp.c**
 
-Running the code:
+####Running the code:
 
-$./a.out
+**$./a.out**
 
-3)Given two array X[2][n] and Y [2][n] containing random numbers, i.e., 2 rows and n columns.
+###3)Given two array X[2][n] and Y [2][n] containing random numbers, i.e., 2 rows and n columns.
 Write a program to solve the following equation
 
- question_3.c
+ *question_3.c
  
 Compilation:
 
-$gcc question_3.c
+**$gcc question_3.c**
 
 Running the code:
 
-$./a.out
+**$./a.out**
 
-4)Given an array A[] containing n random numbers. Write a program to find the mean, variance,
+###4)Given an array A[] containing n random numbers. Write a program to find the mean, variance,
 and standard deviation of the given array.
 
- question4_stddev.c
+ *question4_stddev.c
  
-Compilation:
+####Compilation:
 
-$gcc question4_stddev.c
+**$gcc question4_stddev.c
 
-Running the code:
+####Running the code:
 
-$./a.out
+**$./a.out

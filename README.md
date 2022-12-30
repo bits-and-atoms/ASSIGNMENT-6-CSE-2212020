@@ -3,7 +3,7 @@ This repository contains the codes/solution of assignment 6.
 
 1)Write a program to generate prime numbers using the Sieve of Eratosthenes method
  
- `[que1_sieveprime.c](./que1_sieveprime.c)`
+ `[que1_sieveprime.c](../que1_sieveprime.c)`
  
 Compilation:
 

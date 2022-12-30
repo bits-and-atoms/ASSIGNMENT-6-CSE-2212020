@@ -3,7 +3,7 @@ This repository contains the codes/solution of assignment 6.
 
 **1)Write a program to generate prime numbers using the Sieve of Eratosthenes method**
  
- [que1_sieveprime.c](https://github.com/bits-and-atoms/ASSIGNMENT-6-CSE-2212020/blob/dfcf63e0e5566426ef6087b19b59373d2879842d/que1_sieveprime.c)
+ (https://github.com/bits-and-atoms/ASSIGNMENT-6-CSE-2212020/blob/dfcf63e0e5566426ef6087b19b59373d2879842d/que1_sieveprime.c)
  
 Compilation:
 
